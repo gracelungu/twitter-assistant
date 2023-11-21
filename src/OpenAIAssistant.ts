@@ -1,0 +1,1 @@
+export class OpenAIAssistant {\n    // To be implemented\n}
